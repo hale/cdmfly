@@ -16,4 +16,7 @@ RSpec.configure do |config|
   config.order = 'random'
 
   Dir.glob("spec/steps/**/*steps.rb") { |f| load f, true }
+
+  require 'cocaine'
+  require 'logger'
 end
