@@ -19,4 +19,6 @@ RSpec.configure do |config|
 
   require 'cocaine'
   require 'logger'
+  require 'childprocess'
+
 end
