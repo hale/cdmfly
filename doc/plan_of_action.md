@@ -64,8 +64,9 @@ document{
 ###  New project
  
 * `cdmf new <project_name> [options]`
-* check for git
 * check formatting of options
+* check for and authenticate with git 
+	* https://github.com/peter-murach/github#authorizations-api
 * create new folder \<project_name\> and cd into it
 * parse the command line options and put into JSON in `.cdmf`
 	* if just `cdmf new` print some help
