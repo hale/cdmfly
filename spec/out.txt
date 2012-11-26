@@ -1,2 +1,12 @@
-this is the cdmfly module
-this is the binary executable
+HERE BE ARGV:
+new
+sample_project
+
+Usage: cdmfly <command> [<args>]
+Commands:
+	info	display information about this project
+	start	start cdmfly in this directory
+	new	creates a new project
+	launch	open the project page in the default web browser
+
+For help with specific commands run: cdmfly <command> help
