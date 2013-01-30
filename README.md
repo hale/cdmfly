@@ -5,9 +5,9 @@ condownmarkference.ly.  Deliberately obtuse name so that I have to change it lat
 
 ## Learning outcomes
 
-1) Use Turnip to BDD a command line application
-2) Creating gems from scratch.
-3) Use some of the technologies and ideas voiced at [allyourbaseconf](http://allyourbaseconf.com/) 2012.
+1. Use Turnip to BDD a command line application
+2. Creating gems from scratch.
+3. Use some of the technologies and ideas voiced at [allyourbaseconf](http://allyourbaseconf.com/) 2012.
 
 ## Inception
 
